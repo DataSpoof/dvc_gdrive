@@ -1,0 +1,15 @@
+Create a virtual environment and activate it
+
+pip install dvc 
+
+Git clone 
+
+Cd your_repo
+
+git init
+
+dvc init
+
+dvc remote add -d myremote gdrive://1q8MxhbjcJQ0RczzKUOksY5eB29NbW3W3
+
+
